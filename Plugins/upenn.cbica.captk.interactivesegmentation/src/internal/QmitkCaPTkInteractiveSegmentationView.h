@@ -126,4 +126,5 @@ protected:
   CaPTkInteractiveSegmentation* m_CaPTkInteractiveSegmentation;
 };
 
+
 #endif // QmitkCaPTkInteractiveSegmentationView_h
