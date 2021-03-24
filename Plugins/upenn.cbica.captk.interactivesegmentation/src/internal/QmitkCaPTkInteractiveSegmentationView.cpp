@@ -32,8 +32,6 @@
 // CaPTk
 #include "CaPTkInteractiveSegmentation.h"
 
-#include "tinyxml.h"
-
 #include <itksys/SystemTools.hxx>
 
 #include <regex>
