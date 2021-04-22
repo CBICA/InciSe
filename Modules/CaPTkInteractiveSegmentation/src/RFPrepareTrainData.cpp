@@ -1,3 +1,9 @@
+/**
+contact: software@cbica.upenn.edu
+Copyright (c) 2018 University of Pennsylvania. All rights reserved.
+Use of this source code is governed by license located in license file:
+https://github.com/CBICA/InciSe/blob/main/LICENSE
+**/
 #include "RFPrepareTrainData.h"
 
 cv::Ptr<cv::ml::TrainData> RFSuiteTrainData::PrepareTrainData(const cv::Mat &data, const cv::Mat &responses, int ntrain_samples)

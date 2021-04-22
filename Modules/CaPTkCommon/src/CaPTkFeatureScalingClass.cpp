@@ -1,16 +1,9 @@
 /**
-\file  FeatureScalingClass.h
-
-\brief Implementation of the FeatureScalingClass
-
-https://www.med.upenn.edu/sbia/software/ <br>
-software@cbica.upenn.edu
-
-Copyright (c) 2018 University of Pennsylvania. All rights reserved. <br>
-See COPYING file or https://www.med.upenn.edu/sbia/software-agreement.html
-
-*/
-
+contact: software@cbica.upenn.edu
+Copyright (c) 2018 University of Pennsylvania. All rights reserved.
+Use of this source code is governed by license located in license file:
+https://github.com/CBICA/InciSe/blob/main/LICENSE
+**/
 #include "CaPTkFeatureScalingClass.h"
 
 #include <vtkVersion.h>
