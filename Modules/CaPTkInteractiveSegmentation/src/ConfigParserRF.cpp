@@ -1,3 +1,9 @@
+/**
+contact: software@cbica.upenn.edu
+Copyright (c) 2018 University of Pennsylvania. All rights reserved.
+Use of this source code is governed by license located in license file:
+https://github.com/CBICA/InciSe/blob/main/LICENSE
+**/
 #include "ConfigParserRF.h"
 
 void ConfigParserRF::Parse(std::string filePath, double & trainingSamplePercentage, int & maxDepth, double & minSampleCountPercentage, int & maxCategories, int & activeVarCount, int & numberOfTrees, cv::Mat &priors)
