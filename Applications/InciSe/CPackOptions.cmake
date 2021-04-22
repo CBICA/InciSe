@@ -1,4 +1,4 @@
-# Set CaPTk specific CPack options
+# Set Incise specific CPack options
 
 set(CPACK_PACKAGE_EXECUTABLES "InciSe;InciSe")
 set(CPACK_PACKAGE_NAME "InciSe")
